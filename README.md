@@ -22,14 +22,14 @@ This repository provides the implementation for the paper [**Linearly constraint
 
 
 #### Train the model
-2. Train the model:
+1. Train the model:
     ```bash
     ./run.sh dataset N mu_prior infinity
-	Args:
-		dataset: mnist 
-		N: number of components, int
-		mu_prior: the mean of the prior distribution for component matrix A and mixing coeffients B
-		infinity: bool variable. If True, then the variance of the prior distribution for A and B are infinitely large. 	
+    Args:
+	dataset: mnist 
+	N: number of components, int
+	mu_prior: the mean of the prior distribution for component matrix A and mixing coeffients B
+	infinity: bool variable. If True, then the variance of the prior distribution for A and B are infinitely large (non-informative prior)	
     ```
     
 #### Citation
