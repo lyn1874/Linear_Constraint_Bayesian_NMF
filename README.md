@@ -13,12 +13,12 @@ This repository provides the implementation for the paper [**Linearly constraint
    ```
 
 2. Requirement:
-```
-python3/3.7.7  
-matplotlib/3.2.1-python-3.7.7  
-scipy/1.4.1-python-3.7.7  
-pandas/1.0.3-python-3.7.7
-```
+   ```
+   python3/3.7.7  
+   matplotlib/3.2.1-python-3.7.7  
+   scipy/1.4.1-python-3.7.7  
+   pandas/1.0.3-python-3.7.7
+   ```
 
 
 #### Train the model
